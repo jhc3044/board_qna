@@ -1,0 +1,24 @@
+# 변 수 선 언 : 타입 변수명
+  byte var1  = 125; // -127 ~ 127
+  int var2 = 125; 
+  
+# 반복문 for = 정해진 반복회수가 있을때 사용
+  for(초기값 ; 반복조건 ; 증감값
+  i++ = i += 1 , i = i+1
+  for(int i = 0; i <5 ; i++)
+      {
+      var1++; // var = var + 1
+      var2++;
+      
+      // 문자열 + 다른타입 => 문자열 : 데이터를 이어 붙여서 출력한다.
+      System.out.println("var1:" + var1 + "\t"  + "var2:" + var2);   
+      }
+      
+# 문자 변수 처리 - 숫자로 저장이된다. 음수가 없다.
+  
+  
+  public static void main(Srting[] args) {
+    char c1 = 'A';    // 문자 1개
+  
+  
+  }
